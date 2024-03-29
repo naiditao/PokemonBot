@@ -1,0 +1,11 @@
+Pallet_Town
+Viridian_City
+Pewter_City
+Cerulean_City
+Vermilion_City
+Celadon_City
+Fuchsia_City
+Saffron_City
+Lavender_Town
+Cinnabar_Island
+Indigo_Plateau

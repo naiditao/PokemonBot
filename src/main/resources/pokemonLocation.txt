@@ -1,0 +1,56 @@
+Route_1 Pidgey 0016 3 Rattata 0019 3
+Route_2 Pidgey 0016 3 Rattata 0019 3 Caterpie 0010 2 Weedle 0013 2 Nidoran 0029 4
+Route_3 Pidgey 0016 3 Spearow 0021 3 Jigglypuff 0039 2 Rattata 0019 2 Sandshrew 0027 2 Mankey 0056 2
+Route_4 Ekans 0023 3 Spearow 0021 3 Rattata 0019 3 Sandshrew 0027 3 Mankey 0056 2
+Route_5 Pidgey 0016 3 Oddish 0043 3 Meowth 0052 3 Mankey 0056 3 Bellsprout 0069 3 Rattata 0019 3 Pidgeotto 0017 1 Jigglypuff 0039 2 Abra 0063 2
+Route_6 Pidgey 0016 3 Oddish 0043 3 Meowth 0052 3 Mankey 0056 3 Bellsprout 0069 3 Rattata 0019 3 Pidgeotto 0017 1 Jigglypuff 0039 2 Abra 0063 2 Psyduck 0054 3 Golduck 0055 1 Shellder 0090 3 Krabby 0098 3 Goldeen 0118 3 Poliwag 0060 3 Magikarp 0129 3
+Route_7 Pidgey 0016 3 Oddish 0043 3 Meowth 0052 3 Mankey 0056 3 Bellsprout 0069 3 Rattata 0019 2 Pidgeotto 0017 2 Jigglypuff 0039 2 Abra 0063 3 Vulpix 0037 2 Growlithe 0058 2
+Route_8 Pidgey 0016 3 Oddish 0043 3 Meowth 0052 3 Mankey 0056 3 Kadabra 0064 1 Ekans 0023 2 Rattata 0019 2 Pidgeotto 0017 2 Jigglypuff 0039 2 Abra 0063 3 Vulpix 0037 2 Growlithe 0058 2 Sandshrew 0027 2
+Route_9 Rattata 0019 3 Spearow 0021 3 Ekans 0023 3 Sandshrew 0027 3 Nidoran(F) 0029 3 Nidoran(M) 0032 3 Raticate 0020 1 Fearow 0022 1 Nidorina 0030 1 Nidorino 0033 1
+Route_10 Spearow 0021 3 Ekans 0023 3 Sandshrew 0027 3 Voltorb 0100 3 Magnemite 0081 3 Raticate 0020 1 Machop 0066 1 Rattata 0019 2 Nidoran(M) 0032 2 Nidoran(F) 0029 2 Poliwhirl 0061 3 Slowpoke 0079 3 Krabby 0098 3 Kingler 0099 2 Horsea 0116 2 Poliwag 0060 3 Goldeen 0118 3 Magikarp 0129 3
+Route_11 Spearow 0021 3 Ekans 0023 3 Sandshrew 0027 3 Drowzee 0096 3 Pidgey 0016 3 Rattata 0019 3 Raticate 0020 1 Pidgeotto 0017 2 Shellder 0090 3 Krabby 0098 3 Tentacool 0072 3 Horsea 0116 2 Poliwag 0060 3 Goldeen 0118 3 Magikarp 0129 3
+Route_12 Pidgey 0016 3 Oddish 0043 3 Bellsprout 0069 3 Gloom 0044 1 Weepinbell 0070 1 Farfetch'd 0083 1 Venonat 0048 2 Pidgeotto 0017 2 Slowpoke 0079 3 Slowbro 0080 1 Tentacool 0072 3 Krabby 0098 3 Goldeen 0118 3 Magikarp 0129 3 Horsea 0116 3 Seadra 0117 3 Poliwag 0060 3
+Route_13 Pidgey 0016 3 Oddish 0043 3 Bellsprout 0069 3 Gloom 0044 1 Weepinbell 0070 1 Ditto 0132 1 Farfetch'd 0083 1 Venonat 0048 2 Pidgeotto 0017 2 Slowpoke 0079 3 Slowbro 0080 1 Tentacool 0072 3 Krabby 0098 3 Goldeen 0118 3 Magikarp 0129 3 Horsea 0116 3 Seadra 0117 2 Poliwag 0060 3
+Route_14 Oddish 0043 3 Venonat 0048 3 Bellsprout 0069 3 Pidgeotto 0017 1 Gloom 0044 1 Weepinbell 0070 1 Venomoth 0049 1 Pidgey 0016 2
+Route_15 Oddish 0043 3 Venonat 0048 3 Bellsprout 0069 3 Pidgeotto 0017 1 Gloom 0044 1 Weepinbell 0070 1 Venomoth 0049 1 Pidgey 0016 2
+Route_16 Rattata 0019 3 Spearow 0021 3 Doduo 0084 3 Raticate 0020 1 Fearow 0022 1
+Route_17 Raticate 0020 3 Spearow 0021 3 Doduo 0084 3 Fearow 0022 1 Dodrio 0085 1 Ponyta 0077 2 Tentacool 0072 3 Krabby 0098 3 Goldeen 0118 3 Magikarp 0129 3 Shellder 0090 3 Poliwag 0060 3
+Route_18 Rattata 0019 3 Raticate 0020 1 Spearow 0021 3 Doduo 0084 3 Fearow 0022 1 Dodrio 0085 1 Tentacool 0072 3 Krabby 0098 3 Goldeen 0118 3 Magikarp 0129 3 Shellder 0090 3 Poliwag 0060 3
+Route_19 Tentacool 0072 3 Goldeen 0118 3 Magikarp 0129 3 Shellder 0090 3 Poliwag 0060 3 Horsea 0116 2 Staryu 0120 3 Tentacruel 0073 1
+Route_20 Tentacool 0072 3 Goldeen 0118 3 Magikarp 0129 3 Shellder 0090 3 Poliwag 0060 3 Horsea 0116 2 Staryu 0120 3 Tentacruel 0073 1
+Route_21 Pidgey 0016 3 Rattata 0019 3 Raticate 0020 1 Pidgeotto 0017 1 Tangela 0114 2 Tentacool 0072 3 Goldeen 0118 3 Magikarp 0129 3 Shellder 0090 3 Poliwag 0060 3 Horsea 0116 2 Staryu 0120 3 Tentacruel 0073 1
+Route_22 Rattata 0019 3 Nidoran(F) 0029 3 Nidoran(M) 0032 3 Spearow 0021 2 Mankey 0056 2 Poliwag 0060 3 Goldeen 0118 3 Magikarp 0129 3 Poliwhirl 0061 2
+Route_23 Fearow 0022 3 Ekans 0023 3 Sandshrew 0027 3 Ditto 0132 1 Nidorina 0030 3 Nidorino 0033 3 Arbok 0024 1 Sandslash 0028 1 Primeape 0057 1 Slowbro 0080 3 Kingler 0099 3 Poliwag 0060 3 Poliwhirl 0061 3 Goldeen 0118 3 Magikarp 0129 3 Seaking 0119 3
+Route_24 Caterpie 0010 3 Weedle 0013 3 Oddish 0043 3 Bellsprout 0069 3 Pidgey 0016 3 Pidgeotto 0017 1 Metapod 0011 2 Kakuna 0014 2 Abra 0063 2 Venonat 0048 2 Psyduck 0054 3 Krabby 0098 3 Goldeen 0118 3 Seaking 0119 3 Poliwag 0060 3 Magikarp 0129 3 Charmander 0004 1
+Route_25 Caterpie 0010 3 Weedle 0013 3 Oddish 0043 3 Bellsprout 0069 3 Pidgey 0016 3 Pidgeotto 0017 1 Metapod 0011 1 Kakuna 0014 1 Abra 0063 2 Venonat 0048 2 Psyduck 0054 3 Krabby 0098 3 Kingler 0099 3 Goldeen 0118 3 Poliwag 0060 3 Magikarp 0129 3
+Rock_Tunnel Zubat 0041 3 Geodude 0074 3 Machop 0066 2
+Rock_Tunnel_B1F Zubat 0041 3 Geodude 0074 3 Onix 0095 2 Machop 0066 2
+Seafoam_Islands Zubat 0041 3 Krabby 0098 3 Seel 0086 3 Horsea 0116 2 Shellder 0090 2 Staryu 0120 2 Psyduck 0054 2 Slowpoke 0079 2 Golbat 0042 1 Golduck 0055 1 Slowbro 0080 1
+Seafoam_Islands_B1F Zubat 0041 3 Krabby 0098 3 Seel 0086 3 Horsea 0116 2 Shellder 0090 2 Staryu 0120 2 Psyduck 0054 2 Slowpoke 0079 2 Golbat 0042 1 Dewgong 0087 1 Seadra 0117 1
+Seafoam_Islands_B2F Zubat 0041 3 Krabby 0098 3 Seel 0086 3 Horsea 0116 2 Shellder 0090 2 Staryu 0120 2 Psyduck 0054 2 Slowpoke 0079 2 Golbat 0042 1 Golduck 0055 1 Slowbro 0080 1
+Seafoam_Islands_B3F Zubat 0041 3 Krabby 0098 3 Seel 0086 3 Horsea 0116 2 Shellder 0090 2 Staryu 0120 2 Psyduck 0054 2 Slowpoke 0079 2 Golbat 0042 1 Golduck 0055 1 Slowbro 0080 1 Tentacool 0072 3 Goldeen 0118 3 Magikarp 0129 3 Poliwag 0060 3
+Seafoam_Islands_B4F Zubat 0041 3 Krabby 0098 3 Seel 0086 3 Horsea 0116 2 Shellder 0090 2 Staryu 0120 2 Psyduck 0054 2 Slowpoke 0079 2 Golbat 0042 1 Golduck 0055 1 Slowbro 0080 1 Tentacool 0072 3 Goldeen 0118 3 Magikarp 0129 3 Poliwag 0060 3 Articuno 0144 1
+Mt_Moon Zubat 0041 3 Geodude 0074 3 Clefairy 0035 1 Sandshrew 0027 1 Paras 0046 2
+Mt_Moon_B1F Zubat 0041 3 Geodude 0074 3 Clefairy 0035 1 Paras 0046 2
+Mt_Moon_B2F Zubat 0041 3 Geodude 0074 3 Clefairy 0035 2 Paras 0046 2
+Bill's_House Meowth 0052 3 Mankey 0056 3 Bellsprout 0069 3 Psyduck 0054 2
+Viridian_Forest Caterpie 0010 3 Weedle 0013 3 Bellsprout 0069 3 Pidgey 0016 2 Pidgeotto 0017 1 Metapod 0011 3 Kakuna 0014 3 Pikachu 0025 1
+Victory_Road Zubat 0041 2 Geodude 0074 3 Onix 0095 3 Machop 0066 3 Golbat 0042 1 Graveler 0075 1 Machoke 0067 1 Marowak 0105 1
+Victory_Road_2F Zubat 0041 2 Geodude 0074 3 Onix 0095 3 Machop 0066 3 Golbat 0042 1 Graveler 0075 1 Machoke 0067 1 Marowak 0105 1
+Victory_Road_3F Zubat 0041 3 Geodude 0074 3 Onix 0095 3 Machop 0066 3 Golbat 0042 3 Graveler 0075 3 Machoke 0067 3 Marowak 0105 3 Moltres 0146 1
+Cerulean_Cave Magneton 0082 2 Hypno 0097 2 Kadabra 0064 1 Golbat 0042 3 Dodrio 0085 1 Venomoth 0049 2 Kadabra 0064 2 Graveler 0075 2 Electrode 0101 2 Marowak 0105 2 Rhydon 0112 2 Sandslash 0028 2 Rhyhorn 0111 2 Ditto 0132 1 Wigglytuff 0040 1 Chansey 0113 1
+Cerulean_Cave_2F Golbat 0042 3 Dodrio 0085 1 Venomoth 0049 2 Kadabra 0064 2 Graveler 0075 2 Electrode 0101 2 Marowak 0105 2 Rhydon 0112 2 Sandslash 0028 2 Rhyhorn 0111 2 Ditto 0132 1 Wigglytuff 0040 1 Chansey 0113 1
+Cerulean_Cave_B1F Golbat 0042 3 Rhydon 0112 3 Electrode 0101 3 Marowak 0105 3 Graveler 0075 2 Ditto 0132 2 Raichu 0026 2 Parasect 0047 3 Chansey 0113 3 Rhyhorn 0111 3 Arbok 0024 2 Lickitung 0108 2 Mewtwo 0150 1
+Diglett's_Cave Diglett 0050 3 Dugtrio 0051 1
+Pokemon_Mansion Rattata 0019 3 Raticate 0020 3 Growlithe 0058 2 Grimer 0088 2 Ponyta 0077 3 Koffing 0109 3 Muk 0089 1 Weezing 0110 1 Vulpix 0037 2
+Pokemon_Mansion_2F Rattata 0019 3 Raticate 0020 3 Growlithe 0058 2 Grimer 0088 2 Ponyta 0077 3 Koffing 0109 3 Muk 0089 1 Weezing 0110 1 Vulpix 0037 2
+Pokemon_Mansion_3F Rattata 0019 3 Raticate 0020 3 Growlithe 0058 2 Grimer 0088 2 Ponyta 0077 3 Koffing 0109 3 Muk 0089 1 Weezing 0110 1 Vulpix 0037 2 Magmar 0126 1
+Pokemon_Mansion_B1F Rattata 0019 3 Raticate 0020 3 Growlithe 0058 2 Grimer 0088 2 Ponyta 0077 3 Koffing 0109 3 Muk 0089 1 Weezing 0110 1 Vulpix 0037 2 Magmar 0126 1
+Pokemon_Tower Gastly 0092 3 Cubone 0104 2 Haunter 0093 1
+Pokemon_Tower_3F Gastly 0092 3 Cubone 0104 2 Haunter 0093 1
+Pokemon_Tower_4F Gastly 0092 3 Cubone 0104 2 Haunter 0093 1
+Pokemon_Tower_5F Gastly 0092 3 Cubone 0104 2 Haunter 0093 1
+Pokemon_Tower_6F Gastly 0092 3 Cubone 0104 2 Haunter 0093 1
+Pokemon_Tower_7F Gastly 0092 3 Cubone 0104 3 Haunter 0093 3 Mew 0151 1
+Power_Plant Pikachu 0025 3 Magnemite 0081 3 Voltorb 0100 3 Raichu 0026 2 Electabuzz 0125 2 Muk 0089 2 Magneton 0082 3 Grimer 0088 3 Zapdos 0145 1
+Safari_Zone Nidoran(F) 0029 3 Nidoran(M) 0032 3 Exeggcute 0102 2 Venonat 0048 2 Rhyhorn 0111 2 Parasect 0047 3 Scyther 0123 1 Pinsir 0127 1 Tangela 0114 1 Chansey 0113 1 Dratini 0147 1 Tauros 0128 1 Kangaskhan 0115 1

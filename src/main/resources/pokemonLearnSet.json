@@ -1,0 +1,337 @@
+{
+    "Bulbasaur": {
+        "Solar Beam": 48,
+        "Sleep Powder": 41,
+        "Razor Leaf": 27,
+        "Take Down": 25,
+        "Seed Bomb": 23,
+        "Posion Powder": 20,
+        "Vine Whip": 13,
+        "Leech Seed": 7,
+        "Tackle": 1
+    },
+
+    "Ivysaur": {
+        "Solar Beam": 48,
+        "Sleep Powder": 41,
+        "Razor Leaf": 27,
+        "Take Down": 25,
+        "Seed Bomb": 23,
+        "Posion Powder": 20,
+        "Vine Whip": 13,
+        "Leech Seed": 7,
+        "Tackle": 1
+    },
+
+    "Venusaur": {
+        "Solar Beam": 48,
+        "Sleep Powder": 41,
+        "Razor Leaf": 27,
+        "Take Down": 25,
+        "Seed Bomb": 23,
+        "Posion Powder": 20,
+        "Vine Whip": 13,
+        "Leech Seed": 7,
+        "Tackle": 1
+    },
+
+    "Charmander": {
+        "Flare Blitz": 40,
+        "Inferno": 36,
+        "Flame Thrower": 24,
+        "Slash": 20,
+        "Fire Fang": 17,
+        "Dragon Breath": 12,
+        "Ember": 4,
+        "Scratch": 1
+    },
+
+    "Charmeleon": {
+        "Flare Blitz": 40,
+        "Inferno": 36,
+        "Flame Thrower": 24,
+        "Slash": 20,
+        "Fire Fang": 17,
+        "Dragon Breath": 12,
+        "Ember": 4,
+        "Scratch": 1
+    },
+
+    "Charizard": {
+        "Flare Blitz": 40,
+        "Inferno": 36,
+        "Flame Thrower": 24,
+        "Slash": 20,
+        "Fire Fang": 17,
+        "Dragon Breath": 12,
+        "Ember": 4,
+        "Scratch": 1
+    },
+
+    "Squirtle": {
+        "Wave Crash": 36,
+        "Hydro Pump": 33,
+        "Aqua Tail": 24,
+        "Water Pulse": 15,
+        "Skull Bash": 10,
+        "Bite": 8,
+        "Water Gun": 5,
+        "Bubble": 3,
+        "Tackle": 1
+    },
+
+    "Wartortle": {
+        "Wave Crash": 36,
+        "Hydro Pump": 33,
+        "Aqua Tail": 24,
+        "Water Pulse": 15,
+        "Skull Bash": 10,
+        "Bite": 8,
+        "Water Gun": 5,
+        "Bubble": 3,
+        "Tackle": 1
+    },
+
+    "Blastoise": {
+        "Wave Crash": 36,
+        "Hydro Pump": 33,
+        "Aqua Tail": 24,
+        "Water Pulse": 15,
+        "Skull Bash": 10,
+        "Bite": 8,
+        "Water Gun": 5,
+        "Bubble": 3,
+        "Tackle": 1
+    },
+
+    "Caterpie": {
+        "Bug Buzz": 24,
+        "Air Slash": 15,
+        "Psybeam": 10,
+        "Poison Powder": 8,
+        "Confusion": 5,
+        "Harden": 3,
+        "Gust": 2,
+        "Bug Bite": 1
+    },
+
+    "Metapod": {
+        "Bug Buzz": 24,
+        "Air Slash": 15,
+        "Psybeam": 10,
+        "Poison Powder": 8,
+        "Confusion": 5,
+        "Harden": 3,
+        "Gust": 2,
+        "Bug Bite": 1
+    },
+
+    "Butterfree": {
+        "Bug Buzz": 24,
+        "Air Slash": 15,
+        "Psybeam": 10,
+        "Poison Powder": 8,
+        "Confusion": 5,
+        "Harden": 3,
+        "Gust": 2,
+        "Bug Bite": 1
+    },
+
+    "Weedle": {
+        "Poison Jab": 35,
+        "Pin Missile": 32,
+        "Venoshock": 23,
+        "Fury Cutter": 11,
+        "Poison Sting": 4,
+        "Harden": 3,
+        "Fury Attack": 2,
+        "Bug Bite": 1
+    },
+
+    "Kakuna": {
+        "Poison Jab": 35,
+        "Pin Missile": 32,
+        "Venoshock": 23,
+        "Fury Cutter": 11,
+        "Poison Sting": 4,
+        "Harden": 3,
+        "Fury Attack": 2,
+        "Bug Bite": 1
+    },
+
+    "Beedrill": {
+        "Poison Jab": 35,
+        "Pin Missile": 32,
+        "Venoshock": 23,
+        "Fury Cutter": 11,
+        "Poison Sting": 4,
+        "Harden": 3,
+        "Fury Attack": 2,
+        "Bug Bite": 1
+    },
+
+    "Pidgey": {
+        "Hurricane": 35,
+        "Aerial Ace": 32,
+        "Air Slash": 28,
+        "Twister": 22,
+        "Quick Attack": 13,
+        "Tackle": 2,
+        "Gust": 1
+    },
+
+    "Pidgeotto": {
+        "Hurricane": 35,
+        "Aerial Ace": 32,
+        "Air Slash": 28,
+        "Twister": 22,
+        "Quick Attack": 13,
+        "Tackle": 2,
+        "Gust": 1
+    },
+
+    "Pidgeot": {
+        "Hurricane": 35,
+        "Aerial Ace": 32,
+        "Air Slash": 28,
+        "Twister": 22,
+        "Quick Attack": 13,
+        "Tackle": 2,
+        "Gust": 1
+    },
+
+    "Rattata": {
+        "Double Edge": 35,
+        "Sucker Punch": 29,
+        "Crunch": 24,
+        "Take Down": 16,
+        "Bite": 10,
+        "Quick Attack": 4,
+        "Tackle": 1
+    },
+
+    "Raticate": {
+        "Double Edge": 35,
+        "Sucker Punch": 29,
+        "Crunch": 24,
+        "Take Down": 16,
+        "Bite": 10,
+        "Quick Attack": 4,
+        "Tackle": 1
+    },
+
+    "Spearow": {
+        "Drill Run": 40,
+        "Drill Peck": 35,
+        "Take Down": 23,
+        "Wing Attack": 18,
+        "Aerial Ace": 15,
+        "Fury Attack": 11,
+        "Pluck": 8,
+        "Growl": 1
+    },
+
+    "Fearow": {
+        "Drill Run": 40,
+        "Drill Peck": 35,
+        "Take Down": 23,
+        "Wing Attack": 18,
+        "Aerial Ace": 15,
+        "Fury Attack": 11,
+        "Pluck": 8,
+        "Growl": 1
+    },
+
+    "Oddish": {
+        "Petal Dance": 40,
+        "Moonblast": 32,
+        "Giga Drain": 20,
+        "Sleep Powder": 18,
+        "Poison Powder": 14,
+        "Mega Drain": 12,
+        "Acid": 4,
+        "Absorb": 1
+    },
+
+    "Gloom": {
+        "Petal Dance": 40,
+        "Moonblast": 32,
+        "Giga Drain": 20,
+        "Sleep Powder": 18,
+        "Poison Powder": 14,
+        "Mega Drain": 12,
+        "Acid": 4,
+        "Absorb": 1
+    },
+
+    "Vileplume": {
+        "Petal Dance": 40,
+        "Moonblast": 32,
+        "Giga Drain": 20,
+        "Sleep Powder": 18,
+        "Poison Powder": 14,
+        "Mega Drain": 12,
+        "Acid": 4,
+        "Absorb": 1
+    },
+
+    "Venonat": {
+        "Psychic": 45,
+        "Poison Fang": 40,
+        "Zen Headbutt": 37,
+        "Sleep Powder": 25,
+        "Bug Buzz": 22,
+        "Psybeam": 14,
+        "Poison Powder": 11,
+        "Confusion": 5,
+        "Tackle": 1
+    },
+
+    "Venomoth": {
+        "Psychic": 45,
+        "Poison Fang": 40,
+        "Zen Headbutt": 37,
+        "Sleep Powder": 25,
+        "Bug Buzz": 22,
+        "Psybeam": 14,
+        "Poison Powder": 11,
+        "Confusion": 5,
+        "Tackle": 1
+    },
+
+    "Bellsprout": {
+        "Power Whip": 48,
+        "Slam": 44,
+        "Poison Jab": 37,
+        "Razor Leaf": 33,
+        "Knock Off": 29,
+        "Acid": 24,
+        "Poison Powder": 15,
+        "Sleep Powder": 13,
+        "Vine Whip": 1
+    },
+
+    "Weepinbell": {
+        "Power Whip": 48,
+        "Slam": 44,
+        "Poison Jab": 37,
+        "Razor Leaf": 33,
+        "Knock Off": 29,
+        "Acid": 24,
+        "Poison Powder": 15,
+        "Sleep Powder": 13,
+        "Vine Whip": 1
+    },
+
+    "Victreebel": {
+        "Power Whip": 48,
+        "Slam": 44,
+        "Poison Jab": 37,
+        "Razor Leaf": 33,
+        "Knock Off": 29,
+        "Acid": 24,
+        "Poison Powder": 15,
+        "Sleep Powder": 13,
+        "Vine Whip": 1
+    }
+}

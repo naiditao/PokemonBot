@@ -1,0 +1,128 @@
+{
+    "Normal" : {
+        "typeId" : 1,
+        "name" : "Normal",
+        "strongAgainst" : [],
+        "weakAgainst" : [6, 9],
+        "noDamageAgainst" : [8]
+    },
+    "Fighting" : {
+        "typeId" : 2,
+        "name" : "Fighting",
+        "strongAgainst" : [1, 6, 9, 15, 17],
+        "weakAgainst" : [3, 4, 7, 14, 18],
+        "noDamageAgainst" : [8]
+    },
+    "Flying" : {
+        "typeId" : 3,
+        "name" : "Flying",
+        "strongAgainst" : [2, 7, 12],
+        "weakAgainst" : [6, 9, 13],
+        "noDamageAgainst" : []
+    },
+    "Posion" : {
+        "typeId" : 4,
+        "name" : "Posion",
+        "strongAgainst" : [12, 18],
+        "weakAgainst" : [4, 5, 6, 8],
+        "noDamageAgainst" : [9]
+    },
+    "Ground" : {
+        "typeId" : 5,
+        "name" : "Ground",
+        "strongAgainst" : [4, 6, 9, 10, 13],
+        "weakAgainst" : [7, 12],
+        "noDamageAgainst" : [3]
+    },
+    "Rock" : {
+        "typeId" : 6,
+        "name" : "Rock",
+        "strongAgainst" : [3, 7, 10, 15],
+        "weakAgainst" : [2, 5, 9],
+        "noDamageAgainst" : []
+    },
+    "Bug" : {
+        "typeId" : 7,
+        "name" : "Bug",
+        "strongAgainst" : [12, 14, 17],
+        "weakAgainst" : [2, 3, 4, 8, 9, 10, 18],
+        "noDamageAgainst" : []
+    },
+    "Ghost" : {
+        "typeId" : 8,
+        "name" : "Ghost",
+        "strongAgainst" : [8, 14],
+        "weakAgainst" : [17],
+        "noDamageAgainst" : [1]
+    },
+    "Steel" : {
+        "typeId" : 9,
+        "name" : "Steel",
+        "strongAgainst" : [6, 15, 18],
+        "weakAgainst" : [9, 10, 11, 13],
+        "noDamageAgainst" : []
+    },
+    "Fire" : {
+        "typeId" : 10,
+        "name" : "Fire",
+        "strongAgainst" : [7, 9, 12, 15],
+        "weakAgainst" : [6, 10, 11, 16],
+        "noDamageAgainst" : []
+    },
+    "Water" : {
+        "typeId" : 11,
+        "name" : "Water",
+        "strongAgainst" : [5, 6, 10],
+        "weakAgainst" : [11, 12, 16],
+        "noDamageAgainst" : []
+    },
+    "Grass" : {
+        "typeId" : 12,
+        "name" : "Grass",
+        "strongAgainst" : [5, 6, 11],
+        "weakAgainst" : [3, 4, 7, 9, 10, 12, 16],
+        "noDamageAgainst" : []
+    },
+    "Electric" : {
+        "typeId" : 13,
+        "name" : "Electric",
+        "strongAgainst" : [3, 11],
+        "weakAgainst" : [12, 13, 16],
+        "noDamageAgainst" : [5]
+    },
+    "Psychic" : {
+        "typeId" : 14,
+        "name" : "Psychic",
+        "strongAgainst" : [2, 4],
+        "weakAgainst" : [9, 14],
+        "noDamageAgainst" : [17]
+    },
+    "Ice" : {
+        "typeId" : 15,
+        "name" : "Ice",
+        "strongAgainst" : [3, 5, 12, 16],
+        "weakAgainst" : [9, 10, 11, 15],
+        "noDamageAgainst" : []
+    },
+    "Dragon" : {
+        "typeId" : 16,
+        "name" : "Dragon",
+        "strongAgainst" : [16],
+        "weakAgainst" : [9],
+        "noDamageAgainst" : [18]
+    },
+    "Dark" : {
+        "typeId" : 17,
+        "name" : "Dark",
+        "strongAgainst" : [8, 14],
+        "weakAgainst" : [2, 17, 18],
+        "noDamageAgainst" : []
+    },
+    "Fairy" : {
+        "typeId" : 18,
+        "name" : "Fairy",
+        "strongAgainst" : [2, 16, 17],
+        "weakAgainst" : [4, 9, 10],
+        "noDamageAgainst" : []
+    }
+}

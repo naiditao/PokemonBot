@@ -1,0 +1,67 @@
+Pallet_Town Route_1 Route_21
+Viridian_City Route_1 Route_22 Route_1
+Pewter_City Route_3 Viridian_Forest
+Cerulean_City Route_4 Route_24 Route_5 Route_9 Cerulean_Cave
+Vermilion_City Route_6 Route_11
+Celadon_City Route_7 Route_16
+Fuchsia_City Route_18 Route_15 Route_19 Safari_Zone
+Saffron_City Route_6 Route_5 Route_7 Route_8
+Lavender_Town Route_8 Route_10 Route_12 Pokemon_Tower
+Cinnabar_Island Route_21 Seafoam_Islands Pokémon_Mansion
+Indigo_Plateau Victory_Road
+Route_1 Pallet_Town Viridian_City
+Route_2 Viridian_City Viridian_Forest Diglett's_Cave
+Route_3 Pewter_City Mt_Moon
+Route_4 Cerulean_City Mt_Moon
+Route_5 Cerulean_City Saffron_City
+Route_6 Vermilion_City Saffron_City
+Route_7 Celadon_City Saffron_City
+Route_8 Lavender_Town Saffron_City
+Route_9 Cerulean_City Rock_Tunnel
+Route_10 Rock_Tunnel Lavender_Town Power_Plant
+Route_11 Vermilion_City Route_13 Route_12
+Route_12 Lavender_Town Route_11 Route_13
+Route_13 Route_14 Route_12 Route_11
+Route_14 Route_13 Route_15
+Route_15 Fuchsia_City Route_14
+Route_16 Celadon_City Route_17
+Route_17 Route_16 Route_18
+Route_18 Fuchsia_City Route_17
+Route_19 Fuchsia_City Route_20
+Route_20 Route_19 Seafoam_Islands
+Route_21 Cinnabar_Island Pallet_Town
+Route_22 Viridian_City Route_23
+Route_23 Route_22 Victory_Road
+Route_24 Cerulean_City Route_25
+Route_25 Route_24 Bill's_House
+Rock_Tunnel Routee_10 Route_9 Rock_Tunnel_B1F
+Rock_Tunnel_B1F Rock_Tunnel
+Seafoam_Islands Cinnabar_Island Route_20 Seafoam_Islands_B1F
+Seafoam_Islands_B1F Seafoam_Islands_B2F Seafoam_Islands
+Seafoam_Islands_B2F Seafoam_Islands_B3F Seafoam_Islands_B1F
+Seafoam_Islands_B3F Seafoam_Islands_B4F Seafoam_Islands_B3F
+Seafoam_Islands_B4F Seafoam_Islands_B3F
+Mt_Moon Route_3 Route_4 Mt_Moon_B1F
+Mt_Moon_B1F Mt_Moon_B2F Mt_Moon
+Mt_Moon_B2F Mt_Moon_B1F
+Bill's_House Route_25
+Viridian_Forest Route_2 Pewter_City
+Victory_Road Route_23 Indigo_Plateau Victory_Road_2F
+Victory_Road_2F Victory_Road_3F Victory_Road
+Victory_Road_3F Victory_Road_2F
+Cerulean_Cave Celadon_City Cerulean_Cave_2F Cerulean_Cave_B1F
+Cerulean_Cave_2F Cerulean_Cave
+Cerulean_Cave_B1F Cerulean_Cave
+Diglett's_Cave Route_2
+Pokemon_Mansion Cinnabar_Island Pokemon_Mansion_2F Pokemon_Mansion_B1F
+Pokemon_Mansion_2F Pokemon_Mansion_3F Pokemon_Mansion
+Pokemon_Mansion_3F Pokemon_Mansion_2F
+Pokemon_Mansion_B1F Pokemon_Mansion
+Pokemon_Tower Lavender_Town Pokemon_Tower_3F
+Pokemon_Tower_3F Pokemon_Tower_4F Pokemon_Tower
+Pokemon_Tower_4F Pokemon_Tower_3F Pokemon_Tower_5F
+Pokemon_Tower_5F Pokemon_Tower_6F Pokemon_Tower_4F
+Pokemon_Tower_6F Pokemon_Tower_5F Pokemon_Tower_7F
+Pokemon_Tower_7F Pokemon_Tower_6F
+Power_Plant Route_10
+Safari_Zone Fuchsia_City

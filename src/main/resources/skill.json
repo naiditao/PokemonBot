@@ -1,0 +1,559 @@
+{
+    "Tackle" : {
+        "skillId" : "Tackle",
+        "power" : 35,
+        "typeName" : "Normal",
+        "skillType" : "PHYSICAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Leech Seed" : {
+        "skillId" : "Leech Seed",
+        "power" : 0,
+        "typeName" : "Grass",
+        "skillType" : "STATUS",
+        "effect" : "LEECHSEED",
+        "chanceForStatus" : 90
+    },
+
+    "Vine Whip" : {
+        "skillId" : "Vine Whip",
+        "power" : 35,
+        "typeName" : "Grass",
+        "skillType" : "PHYSICAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Posion Powder" : {
+        "skillId" : "Posion Powder",
+        "power" : 0,
+        "typeName" : "Posion",
+        "skillType" : "STATUS",
+        "effect" : "POSIONED",
+        "chanceForStatus" : 75
+    },
+
+    "Razor Leaf" : {
+        "skillId" : "Razor Leaf",
+        "power" : 55,
+        "typeName" : "Grass",
+        "skillType" : "PHYSICAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Sleep Powder" : {
+        "skillId" : "Sleep Powder",
+        "power" : 0,
+        "typeName" : "Grass",
+        "skillType" : "STATUS",
+        "effect" : "SLEEP",
+        "chanceForStatus" : 75
+    },
+
+    "Solar Beam" : {
+        "skillId" : "Vine Whip",
+        "power" : 120,
+        "typeName" : "Grass",
+        "skillType" : "SPECIAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Ember" : {
+        "skillId" : "Ember",
+        "power" : 40,
+        "typeName" : "Fire",
+        "skillType" : "SPECIAL",
+        "effect" : "BURN",
+        "chanceForStatus" : 10
+    },
+
+    "Scratch" : {
+        "skillId" : "Scratch",
+        "power" : 40,
+        "typeName" : "Normal",
+        "skillType" : "PHYSICAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Rage" : {
+        "skillId" : "Rage",
+        "power" : 45,
+        "typeName" : "Normal",
+        "skillType" : "PHYSICAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Slash" : {
+        "skillId" : "Slash",
+        "power" : 70,
+        "typeName" : "Normal",
+        "skillType" : "PHYSICAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Flame Thrower" : {
+        "skillId" : "Flame Thrower",
+        "power" : 90,
+        "typeName" : "Fire",
+        "skillType" : "SPECIAL",
+        "effect" : "BURN",
+        "chanceForStatus" : 10
+    },
+
+    "Bubble" : {
+        "skillId" : "Bubble",
+        "power" : 40,
+        "typeName" : "Water",
+        "skillType" : "SPECIAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Water Gun" : {
+        "skillId" : "Water Gun",
+        "power" : 40,
+        "typeName" : "Water",
+        "skillType" : "SPECIAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Bite" : {
+        "skillId" : "Bite",
+        "power" : 60,
+        "typeName" : "Dark",
+        "skillType" : "PHYSICAL",
+        "effect" : "FLINCH",
+        "chanceForStatus" : 30
+    },
+
+    "Skull Bash" : {
+        "skillId" : "Skull Bash",
+        "power" : 130,
+        "typeName" : "Normal",
+        "skillType" : "PHYSICAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Hydro Pump" : {
+        "skillId" : "Hydro Pump",
+        "power" : 110,
+        "typeName" : "Water",
+        "skillType" : "SPECIAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Seed Bomb" : {
+        "skillId" : "Seed Bomb",
+        "power" : 80,
+        "typeName" : "Grass",
+        "skillType" : "PHYSICAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Take Down" : {
+        "skillId" : "Take Down",
+        "power" : 90,
+        "typeName" : "Normal",
+        "skillType" : "PHYSICAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Dragon Breath" : {
+        "skillId" : "Dragon Breath",
+        "power" : 60,
+        "typeName" : "Dragon",
+        "skillType" : "SPECIAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Fire Fang" : {
+        "skillId" : "Fire Fang",
+        "power" : 60,
+        "typeName" : "Fire",
+        "skillType" : "PHYSICAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Inferno" : {
+        "skillId" : "Inferno",
+        "power" : 100,
+        "typeName" : "Fire",
+        "skillType" : "SPECIAL",
+        "effect" : "BURN",
+        "chanceForStatus" : 33
+    },
+
+    "Flare Blitz": {
+        "skillId" : "Flare Blitz",
+        "power" : 120,
+        "typeName" : "Fire",
+        "skillType" : "PHYSICAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Wave Crash": {
+        "skillId" : "Wave Crash",
+        "power" : 120,
+        "typeName" : "Water",
+        "skillType" : "PHYSICAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Aqua Tail": {
+        "skillId" : "Aqua Tail",
+        "power" : 90,
+        "typeName" : "Water",
+        "skillType" : "PHYSICAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Water Pulse": {
+        "skillId" : "Water Pulse",
+        "power" : 60,
+        "typeName" : "Water",
+        "skillType" : "SPECIAL",
+        "effect" : "FLINCH",
+        "chanceForStatus" : 10
+    },
+
+    "Bug Bite": {
+        "skillId" : "Bug Bite",
+        "power" : 60,
+        "typeName" : "Bug",
+        "skillType" : "PHYSICAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Gust": {
+        "skillId" : "Gust",
+        "power" : 60,
+        "typeName" : "Flying",
+        "skillType" : "SPECIAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Harden": {
+        "skillId" : "Harden",
+        "power" : 0,
+        "typeName" : "Normal",
+        "skillType" : "PHYSICAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Confusion": {
+        "skillId" : "Confusion",
+        "power" : 50,
+        "typeName" : "Psychic",
+        "skillType" : "SPECIAL",
+        "effect" : "FLINCH",
+        "chanceForStatus" : 10
+    },
+
+    "Psybeam": {
+        "skillId" : "Psybeam",
+        "power" : 65,
+        "typeName" : "Psychic",
+        "skillType" : "SPECIAL",
+        "effect" : "FLINCH",
+        "chanceForStatus" : 10
+    },
+
+    "Air Slash": {
+        "skillId" : "Air Slash",
+        "power" : 75,
+        "typeName" : "Flying",
+        "skillType" : "PHYSICAL",
+        "effect" : "FLINCH",
+        "chanceForStatus" : 10
+    },
+
+    "Bug Buzz": {
+        "skillId" : "Bug Buzz",
+        "power" : 90,
+        "typeName" : "Bug",
+        "skillType" : "SPECIAL",
+        "effect" : "PARALYZED",
+        "chanceForStatus" : 33
+    },
+
+    "Fury Attack": {
+        "skillId" : "Fury Attack",
+        "power" : 30,
+        "typeName" : "Normal",
+        "skillType" : "PHYSICAL",
+        "effect" : "PARALYZED",
+        "chanceForStatus" : 10
+    },
+
+    "Poison Sting": {
+        "skillId" : "Poison Sting",
+        "power" : 15,
+        "typeName" : "Posion",
+        "skillType" : "PHYSICAL",
+        "effect" : "POSIONED",
+        "chanceForStatus" : 30
+    },
+
+    "Fury Cutter": {
+        "skillId" : "Fury Cutter",
+        "power" : 80,
+        "typeName" : "Bug",
+        "skillType" : "PHYSICAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Venoshock": {
+        "skillId" : "Venoshock",
+        "power" : 65,
+        "typeName" : "Posion",
+        "skillType" : "SPECIAL",
+        "effect" : "POSIONED",
+        "chanceForStatus" : 30
+    },
+
+    "Pin Missile": {
+        "skillId" : "Pin Missile",
+        "power" : 90,
+        "typeName" : "Bug",
+        "skillType" : "PHYSICAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Poison Jab": {
+        "skillId" : "Poison Jab",
+        "power" : 100,
+        "typeName" : "Posion",
+        "skillType" : "PHYSICAL",
+        "effect" : "POSIONED",
+        "chanceForStatus" : 30
+    },
+
+    "Quick Attack": {
+        "skillId" : "Quick Attack",
+        "power" : 40,
+        "typeName" : "Normal",
+        "skillType" : "PHYSICAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Twister": {
+        "skillId" : "Twister",
+        "power" : 40,
+        "typeName" : "Dragon",
+        "skillType" : "SPECIAL",
+        "effect" : "FLINCH",
+        "chanceForStatus" : 30
+    },
+
+    "Aerial Ace": {
+        "skillId" : "Aerial Ace",
+        "power" : 60,
+        "typeName" : "Flying",
+        "skillType" : "PHYSICAL",
+        "effect" : "PARALYZED",
+        "chanceForStatus" : 40
+    },
+
+    "Hurricane": {
+        "skillId" : "Hurricane",
+        "power" : 100,
+        "typeName" : "Flying",
+        "skillType" : "SPECIAL",
+        "effect" : "FLINCH",
+        "chanceForStatus" : 30
+    },
+
+    "Crunch": {
+        "skillId" : "Crunch",
+        "power" : 80,
+        "typeName" : "Dark",
+        "skillType" : "PHYSICAL",
+        "effect" : "FLINCH",
+        "chanceForStatus" : 10
+    },
+
+    "Sucker Punch": {
+        "skillId" : "Sucker Punch",
+        "power" : 100,
+        "typeName" : "Dark",
+        "skillType" : "PHYSICAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Double Edge": {
+        "skillId" : "Double Edge",
+        "power" : 120,
+        "typeName" : "Normal",
+        "skillType" : "PHYSICAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Pluck": {
+        "skillId" : "Pluck",
+        "power" : 60,
+        "typeName" : "Flying",
+        "skillType" : "PHYSICAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Wing Attack": {
+        "skillId" : "Wing Attack",
+        "power" : 35,
+        "typeName" : "Flying",
+        "skillType" : "PHYSICAL",
+        "effect" : "FLINCH",
+        "chanceForStatus" : 20
+    },
+
+    "Drill Peck": {
+        "skillId" : "Drill Peck",
+        "power" : 80,
+        "typeName" : "Flying",
+        "skillType" : "PHYSICAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Drill Run": {
+        "skillId" : "Drill Run",
+        "power" : 80,
+        "typeName" : "Ground",
+        "skillType" : "PHYSICAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Absorb": {
+        "skillId" : "Absorb",
+        "power" : 20,
+        "typeName" : "Grass",
+        "skillType" : "SPECIAL",
+        "effect" : "LEECHSEED",
+        "chanceForStatus" : 10
+    },
+
+    "Acid": {
+        "skillId" : "Acid",
+        "power" : 40,
+        "typeName" : "Posion",
+        "skillType" : "SPECIAL",
+        "effect" : "POSIONED",
+        "chanceForStatus" : 10
+    },
+
+    "Mega Drain": {
+        "skillId" : "Mega Drain",
+        "power" : 40,
+        "typeName" : "Grass",
+        "skillType" : "SPECIAL",
+        "effect" : "LEECHSEED",
+        "chanceForStatus" : 20
+    },
+
+    "Giga Drain": {
+        "skillId" : "Giga Drain",
+        "power" : 75,
+        "typeName" : "Grass",
+        "skillType" : "SPECIAL",
+        "effect" : "LEECHSEED",
+        "chanceForStatus" : 40
+    },
+
+    "Moonblast": {
+        "skillId" : "Moonblast",
+        "power" : 105,
+        "typeName" : "Fairy",
+        "skillType" : "SPECIAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Petal Dance": {
+        "skillId" : "Petal Dance",
+        "power" : 120,
+        "typeName" : "Grass",
+        "skillType" : "SPECIAL",
+        "effect" : "PARALYZED",
+        "chanceForStatus" : 33
+    },
+
+    "Zen Headbutt": {
+        "skillId" : "Zen Headbutt",
+        "power" : 80,
+        "typeName" : "Psychic",
+        "skillType" : "PHYSICAL",
+        "effect" : "FLINCH",
+        "chanceForStatus" : 20
+    },
+
+    "Poison Fang": {
+        "skillId" : "Poison Fang",
+        "power" : 75,
+        "typeName" : "Posion",
+        "skillType" : "SPECIAL",
+        "effect" : "POSIONED",
+        "chanceForStatus" : 100
+    },
+
+    "Psychic": {
+        "skillId" : "Psychic",
+        "power" : 100,
+        "typeName" : "Psychic",
+        "skillType" : "SPECIAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Knock Off": {
+        "skillId" : "Knock Off",
+        "power" : 65,
+        "typeName" : "Dark",
+        "skillType" : "PHYSICAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Slam": {
+        "skillId" : "Slam",
+        "power" : 80,
+        "typeName" : "Normal",
+        "skillType" : "PHYSICAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    },
+
+    "Power Whip": {
+        "skillId" : "Power Whip",
+        "power" : 120,
+        "typeName" : "Grass",
+        "skillType" : "PHYSICAL",
+        "effect" : null,
+        "chanceForStatus" : 0
+    }
+}
